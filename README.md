@@ -103,15 +103,15 @@ The power distribution network includes:
 
 ### PCB Assembly
 
-![PCB Assembly](Hardware/Images/assembled_board.jpg)
+<img width="788" height="537" alt="image" src="https://github.com/user-attachments/assets/782bfe36-75a0-475f-a3d1-4af0f7556023" />
 
 ### 3D PCB View
 
-![3D PCB](Hardware/Images/pcb_3d.png)
+<img width="1072" height="669" alt="image" src="https://github.com/user-attachments/assets/f136346c-2be3-49c6-8d1e-39c3157fb94a" />
 
 ### Top Layer
 
-![Top Layer](Hardware/Images/top_layer.png)
+<img width="901" height="563" alt="image" src="https://github.com/user-attachments/assets/428aabdb-f914-414e-9f45-a8f8822520db" />
 
 ---
 
