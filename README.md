@@ -131,6 +131,8 @@ The power distribution network includes:
 
 The hub was validated through practical USB storage testing.
 
+<img width="594" height="336" alt="image" src="https://github.com/user-attachments/assets/4b2da8f2-cf8f-4c4b-ad21-025ef9c96bd7" />
+
 ### USB Flash Drive Transfer Test
 
 - Test device: USB Flash Drive
