@@ -113,6 +113,18 @@ The power distribution network includes:
 
 <img width="901" height="563" alt="image" src="https://github.com/user-attachments/assets/428aabdb-f914-414e-9f45-a8f8822520db" />
 
+### Inner 1
+
+<img width="879" height="567" alt="image" src="https://github.com/user-attachments/assets/9c59d373-8392-4e3c-b725-10ca6362ed22" />
+
+### Inner 2
+
+<img width="868" height="571" alt="image" src="https://github.com/user-attachments/assets/8836499b-3f8e-4ff5-9517-087be54b1030" />
+
+### Bottom Layer
+
+<img width="867" height="581" alt="image" src="https://github.com/user-attachments/assets/9f3a59a2-d09c-4d3e-b4c4-bd11865f6109" />
+
 ---
 
 ## Validation
