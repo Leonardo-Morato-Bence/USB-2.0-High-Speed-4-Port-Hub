@@ -1,6 +1,7 @@
 # USB 2.0 High-Speed 4-Port Hub
 
-Self-powered USB 2.0 High-Speed hub featuring controlled impedance routing, differential pair matching, and a 4-layer PCB architecture optimized for signal integrity.
+Self-powered 4-port USB 2.0 High-Speed hub with controlled impedance PCB
+design
 
 ---
 
